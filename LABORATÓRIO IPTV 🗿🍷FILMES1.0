@@ -1,0 +1,17 @@
+EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+
+#EXTINF:-1 tvg-name="Ad?o Negro" tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="FILMES",Ad?o Negro ?
+https://908472047.tapecontent.net/radosgw/jbLl71Z9zRUzX2p/xSUrSeCGuoM1g_asTnOABzc6XSH1oSaWyjunytfg6B0djIZwoLhg8WnxlWf3dEYdVQ5dx0KNGo0dmyFZ0ig79SrA7C6p4fvIudQOuZ6K2g-x31DIrKnRmjXb7N9wDnpt0koNMrDacP5Pj0gxKEj3nyMPug28ftNQqe__HnjAmeluhK7X-rcfTpmrOmBJ1q188-gG4JNKVsOzwRdRvUqV6kC8GRUA0fRt-WxnqriwPCibmFvgzFxr1m0qpcAQvj8qhUUEUK2-SThV9YZbntfdHfq8DK76hreMEacQyvJf-0uKMta_YlJb97o0RS0oYD5Cnfa4T2FO7rAOdEFU/Adao.Negro.2022.720p.MP4.DUB.BaixarSeriesMP4.xyz.mp4?stream=1
+
+#EXTINF:-1, tvg-name="AD?O NEGRO" tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg" group-title="FILMES" AD?O NEGRO?? "\"AD?O NEGRO (2022) Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses eg¨ªpcios - e preso com a mesma rapidez - Ad?o Negro (Johnson) ¨¦ libertado de sua tumba terrena, pronto para liberar sua forma ¨²nica de justi?a no mundo moderno .mkv#
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AdaoNegro2022.mp4
+
+
+#EXTINF:-1, Ad?o Negro1 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg"
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AdaoNegro2022.mp4
+
+#EXTINF:-1, Ad?o Negro3 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",Ad?o Negro2 (Ano: 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AdaoNegro2022.mp4
+
